@@ -1,5 +1,5 @@
 var playlist = {ACDC: "Cherry Pie"}
 
-function updatePlaylist(playlist, aritistName, songTitle){
+function updatePlaylist(playlist, artistName, songTitle){
   playlist.artistName = songTitle
 }
