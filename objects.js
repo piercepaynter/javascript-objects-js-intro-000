@@ -1,1 +1,1 @@
-var playlist = {ACDC: Cherry Pie}
+var playlist = {ACDC: "Cherry Pie"}
